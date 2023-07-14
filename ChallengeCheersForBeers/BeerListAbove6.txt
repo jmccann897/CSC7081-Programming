@@ -1,0 +1,4 @@
+Name: Ayinger Celebrator Doppelbock, Style: Doppelbock, Country: Germany, Alc%: 6.7
+Name: Leffe Blonde, Style: Belgian Blonde Ale, Country: Belgium, Alc%: 6.6
+Name: Leffe Brune, Style: Dubbel, Country: Belgium, Alc%: 6.5
+Name: Sierra Nevada Torpedo Extra IPA, Style: IPA, Country: United States, Alc%: 7.2
